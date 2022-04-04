@@ -1,8 +1,8 @@
 # Flask==1.1.2
 matplotlib
 numpy
-opencv_python==4.5.5.64
-Pillow==9.1.0
+opencv_python
+Pillow
 # PyQt5==5.15.6
 scikit_image
 # skimage==0.0

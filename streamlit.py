@@ -9,7 +9,7 @@ import cv2
 import numpy as np
 # from matplotlib import pyplot as pl
 
-st.set_page_config(layout="wide")    
+st.set_page_config(layout="wide") 
 ###########################
 import streamlit as st
 import base64
